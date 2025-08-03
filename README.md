@@ -1,17 +1,16 @@
 # 👩🏻‍💻 Gabriela Coutinho
 
-**`FullStack Developer`**
+**`Desenvolvedora FullStack`**
 
-🎓 Software Engineering student passionate about web development and modern technologies.
+🎓 Estudante de Engenharia de Software apaixonada por desenvolvimento web e tecnologias modernas.
 
-💻 Currently focused on the JavaScript ecosystem, with hands-on experience in:
+💻 Atualmente focada no ecossistema JavaScript, com experiência prática em:
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
 - **Backend:** Node.js, Express
-- **Others:** Git, REST APIs, Figma (UX/UI)
+- **Outros:** Git, REST APIs, Figma (UX/UI)
 
-### 🤖 Languages & Technologies
-
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -104,7 +103,7 @@
 <br/>
 <br/>
 
-### 📊 Stats
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -112,14 +111,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gbrlcoutinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=gbrlcoutinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=gbrlcoutinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoutinho&theme=tokyonight&layout=compact&custom_title=Top Technologies&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlcoutinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
