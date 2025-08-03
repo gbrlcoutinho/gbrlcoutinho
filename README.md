@@ -1,14 +1,14 @@
 # 👩🏻‍💻 Gabriela Coutinho
 
-**`Desenvolvedora FullStack`**
+**`FullStack Developer`**
 
-🎓 Estudante de Engenharia de Software apaixonada por desenvolvimento web e tecnologias modernas.
+🎓 Software Engineering student passionate about web development and modern technologies.
 
-💻 Atualmente focada no ecossistema JavaScript, com experiência prática em:
+💻 Currently focused on the JavaScript ecosystem, with hands-on experience in:
 
 - **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
 - **Backend:** Node.js, Express
-- **Outros:** Git, REST APIs, Figma (UX/UI)
+- **Others:** Git, REST APIs, Figma (UX/UI)
 
 ### 🤖 Linguagens e Tecnologias
 
