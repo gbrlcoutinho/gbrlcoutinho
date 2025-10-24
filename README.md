@@ -64,16 +64,6 @@
 
 <img 
     align="left" 
-    alt="Express.js" 
-    title="Express.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-/>
-
-
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
