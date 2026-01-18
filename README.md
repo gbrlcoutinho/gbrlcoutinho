@@ -1,40 +1,27 @@
 # 👩🏻‍💻 Gabriela Coutinho
 
-**`Desenvolvedora FullStack`**
+**`Frontend Developer | UI/UX Designer`**
 
-🎓 Estudante de Engenharia de Software apaixonada por desenvolvimento web e tecnologias modernas.
+🎓 Estudante de Engenharia de Software na UFC
 
-💻 Atualmente focada no ecossistema JavaScript, com experiência prática em:
+Focada em **Frontend** e **UI/UX**. Trago minha bagagem de Design para construir telas organizadas e fiéis ao protótipo. O conhecimento em Backend me ajuda a entender o todo e a conversar melhor com o time técnico.
 
-- **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
-- **Backend:** Node.js, Express
-- **Outros:** Git, REST APIs, Figma (UX/UI)
-
-### 🤖 Linguagens e Tecnologias
-
+### 🎨 Core Stack (Frontend & Design)
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Figma" 
+    title="Figma (Prototipagem & Design System)"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
@@ -46,12 +33,25 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Tailwind" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Electron" 
+    title="Electron (Desktop Apps)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" 
+/>
+<br/>
+<br/>
+
+### ⚙️ Backend & Ferramentas
+*Conhecimentos que complementam meu trabalho no frontend:*
 
 <img 
     align="left" 
@@ -59,18 +59,16 @@
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -80,15 +78,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-
-
 <br/>
 <br/>
+
+
+### 📫 Contato
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:coutinhogaby25@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
