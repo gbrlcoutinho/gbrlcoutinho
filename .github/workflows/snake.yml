@@ -19,8 +19,10 @@ jobs:
           # Seu usuário do GitHub vem automático aqui
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Versão Light (Fundo claro)
+            dist/github-contribution-grid-snake.svg?color_snake=#8844fc&color_dots=#ebedf0,#e3d4ff,#cdaeff,#a673ff,#8844fc
+            # Versão Dark (Fundo escuro #161b22) - Cobra Roxa
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#8844fc&color_dots=#161b22,#e3d4ff,#cdaeff,#a673ff,#8844fc
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
