@@ -53,7 +53,6 @@ Focada em **Frontend** e **UI/UX**. Trago minha bagagem de Design para construir
 ### ⚙️ Backend & Ferramentas
 *Conhecimentos que complementam meu trabalho no frontend:*
 
-/>
 <img 
     align="left" 
     alt="Git" 
